@@ -103,17 +103,6 @@ def decrypt(message):
     return decrypted_message
 
 
-#def play_morse(code):
-#    for sign in code:
-#        if sign == ".":
-#            playsound("dot.mp3")
-#        
-#        elif sign == "-":
-#            playsound("dash.mp3")
-#
-#        else:
-#            time.sleep(0.5)
-
 #Convert Loop
 while is_on:
 
