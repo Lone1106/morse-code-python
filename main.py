@@ -1,4 +1,3 @@
-from playsound import playsound
 import time
 #Morse Alphabet Dictionary
 morse_alphabet = {
