@@ -115,7 +115,6 @@ while is_on:
         text = input("What do you want to encrypt?\n").lower()
         encrpyted_text = encrpyt(text)
         print(encrpyted_text)
-        #play_morse(encrpyted_text)
 
     elif mode == "d":
         text = input("What do you want to decrypt?\n")
